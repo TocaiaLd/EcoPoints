@@ -7,7 +7,7 @@
 
 ``` bash
 .
-├── CONTRIBUTING.md
+├── CONTRIBUTING.md             # Regras para contribuição (commits, pushs, etc)
 ├── README.md                   # Descrição do Problema
 ├── docs                        # Documentação
 │   ├── personas

@@ -54,7 +54,21 @@ Siga estes passos para que sua alteração seja integrada ao projeto:
 
 ---
 
-## 4. Boas Práticas Gerais
+## 4. Descrição do Pull Request
+
+### Tipo de Alteração
+- [ ] Correção de Bug
+- [ ] Documentação
+- [ ] Funcionalidade ou Recurso
+- [ ] Testes
+- [ ] Refatoração
+
+### O que foi feito
+- Item 1 (Ex: Atualizado o passo a passo de instalação no `README.md`)
+- Item 2 (Ex: Adicionado o link para a nova API de homologação)
+- Item 3 (Ex: Corrigido os comandos de Docker que estavam quebrados)
+
+## 5. Boas Práticas Gerais
 
 * **Mantenha o escopo focado:** Não misture correções de bug com novas funcionalidades no mesmo commit ou branch.
 * **Atualize sua branch:** Antes de abrir o PR, atualize sua branch com a `main` mais recente para evitar conflitos.
