@@ -10,4 +10,4 @@ Dificuldades: Júlia tem dificuldade em encontrar tabelas que mostrem como e ond
 
 Necessidades: Dashboard esteticamente agradável com total de descartes realizados pelo usuário, total de recompensas coletadas, pontos de coleta seletiva na sua cidade, com aba para os mais próximos; tabelas que associem tipo de lixo à cor da lixeira adequada, navegação em poucos passos e tutorial para primeiro uso do software
 
-Familiaridade com tecnologia: Média, consegue usar aplicativos de mensagem simples, Google e sistemas de entretenimento, mas tem pouca familiaridade com sistemas que tenham muitas etapas/botões desnecessários ou em grande quantidade.
+Familiaridade com tecnologia: Média, Júlia consegue usar aplicativos de mensagem simples, Google e sistemas de entretenimento, mas tem pouca familiaridade com sistemas que tenham muitas etapas/botões desnecessários ou em grande quantidade.
