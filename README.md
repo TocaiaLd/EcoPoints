@@ -21,6 +21,12 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Justificativa
 
+- Como apresentado no [contexto](#contexto), a problemática relacionada à **falta de informação sobre a coleta seletiva** não atinge apenas uma pequena parcela da população, mas pode afetar muitas pessoas de diferentes cidades. A dificuldade em localizar pontos de coleta e identificar quais materiais podem ser descartados em cada local contribui para o **descarte inadequado de resíduos, prejudica o processo de reciclagem e afeta o meio ambiente**.
+
+- Diante disso, torna-se necessária uma **solução simples, acessível e eficaz para facilitar o acesso da população a informações sobre o descarte correto de resíduos**. Pensando nessa necessidade, surgiu a proposta de desenvolver uma página virtual que reúna informações sobre os **principais pontos de coleta, suas localizações e os tipos de materiais aceitos em cada um deles**.
+
+- Dessa forma, a plataforma busca facilitar a consulta dessas informações, reduzir a desinformação e incentivar práticas de descarte mais conscientes e adequadas.
+
 ## Público Alvo
 
 ## Escopo do Problema
