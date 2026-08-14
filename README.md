@@ -12,6 +12,13 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Contexto
 
+- Embora diversas cidades já disponham de pontos destinados à coleta seletiva, ainda **existem dificuldades relacionadas ao acesso e à falta de informação da população**. 
+
+- Muitas pessoas não sabem exatamente onde esses locais estão situados ou desconhecem quais tipos de materiais devem ser descartados em cada recipiente. Essa falta de orientação pode gerar **dúvidas no momento do descarte e contribuir para a separação incorreta dos resíduos**. 
+
+- Como resultado, materiais que poderiam ser reciclados acabam sendo destinados ao lixo comum ou descartados de maneira inadequada, **prejudicando o processo de reciclagem e contribuindo para impactos ambientais**.
+
+
 ## Justificativa
 
 ## Público Alvo
