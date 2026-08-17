@@ -22,23 +22,8 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Estrutura de Arquivos
 ``` bash
-EcoPoints                               # Diretório raiz do projeto
-│
-├── CONTRIBUTING.md                     # Regras para contribuição (commits, pushs, etc)
-├── README.md                           # Resumo do projeto
-├── docs/                               # Documentação completa
-│   ├── personas/                       # Pessoas criadas
-│   │   ├── secundary-persona.md            # principal
-│   │   └── main-persona.md                 # secundária
-│   ├── requirements/                   # Requisitos
-│   │   ├── functional                      # Funcionais
-│   │   └── non-functional                  # Não funcionais
-│   └── user-stories/                   # Histórias dos usuários
-├── imgs/                               # Arquivos de imagens
-└── prototypes/                         # Protótipos
-    ├── high-fidelity                       # Alta fidelidade
-    ├── low-fidelity                        # Baixa fidelidade
-    └── medium-fidelity                     # Média fidelidade
+
+Aguardando a concluão do trabalho para usar o comando tree
 
 ```
 
