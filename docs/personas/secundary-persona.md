@@ -1,3 +1,5 @@
+![Foto ilustrativa de Júlia Santos](./assets/julia-santos.jpeg)
+
 Nome: Júlia Santos
 
 Idade: 42 anos
