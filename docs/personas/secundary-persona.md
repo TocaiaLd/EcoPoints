@@ -1,3 +1,6 @@
+![main-persona](../../imgs/personas/secundary-persona.jpeg)
+
+
 Nome: Júlia Santos
 
 Idade: 42 anos

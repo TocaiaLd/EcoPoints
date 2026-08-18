@@ -1,3 +1,5 @@
+![main-persona](../../imgs/personas/main-persona.jpeg)
+
 Nome: João Silva
 
 Idade: 24 anos
