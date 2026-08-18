@@ -39,6 +39,11 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Impacto Esperado
 
+- Espera-se que o projeto contribua para **aumentar o acesso da população às informações sobre a coleta seletiva**, facilitando a localização dos pontos de coleta e o conhecimento sobre os materiais que podem ser descartados em cada local. Com informações mais claras e acessíveis, a população poderá realizar o **descarte de seus resíduos de maneira mais adequada**, reduzindo a quantidade de materiais recicláveis destinados incorretamente ao lixo comum.
+
+- Além disso, o projeto busca incentivar a adoção de hábitos mais sustentáveis no cotidiano, promovendo uma **maior conscientização sobre a importância da reciclagem e da destinação correta dos resíduos**. A longo prazo, espera-se contribuir para a redução do descarte irregular de lixo, o **melhor aproveitamento de materiais recicláveis** e o **fortalecimento da cultura de preservação ambiental na comunidade**.
+
+
 ## Estrutura de Arquivos
 ``` bash
 
