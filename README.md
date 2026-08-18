@@ -29,6 +29,8 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Público Alvo
 
+- O projeto tem como público-alvo a população em geral, buscando alcançar pessoas de diferentes idades e perfis, principalmente aquelas que ainda possuem pouco conhecimento sobre a **existência e a localização dos pontos de coleta seletiva**. A proposta também é voltada para indivíduos que não possuem o **hábito de separar e destinar corretamente seus resíduos**, seja por falta de informação, dificuldade para encontrar locais adequados ou pela ausência de uma cultura de reciclagem.
+
 ## Escopo do Problema
 
 ## Impacto Esperado
