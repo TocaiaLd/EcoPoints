@@ -33,6 +33,10 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Escopo do Problema
 
+- Mesmo com a presença de pontos de coleta seletiva em diversas cidades, ainda existe uma parcela significativa da população que **não possui informações suficientes sobre onde esses locais estão situados ou sobre a maneira correta de separar e descartar diferentes tipos de resíduos**. 
+
+- Essa falta de conhecimento **dificulta a participação da população na coleta seletiva e contribui para que materiais que poderiam ser reciclados sejam descartados junto ao lixo comum ou de maneira incorreta**. Como resultado, há um **desperdício de materiais recicláveis e um aumento dos impactos causados pelo descarte inadequado de resíduos**.
+
 ## Impacto Esperado
 
 ## Estrutura de Arquivos
