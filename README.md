@@ -6,9 +6,8 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 - [Público Alvo](#público-alvo)
 - [Escopo do Problema](#escopo-do-problema)
 - [Impacto Esperado](#impacto-esperado)
-- [Estrutura de Arquivos](#estrutura-de-arquivos)
+- [Estrutura de Arquivos/Documentação](#estrutura-de-arquivos)
 - [Equipe](#equipe)
-- [Histórico de Contribuições](#histórico-de-contribuições)
 
 ## Contexto
 
@@ -46,8 +45,47 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Estrutura de Arquivos
 ``` bash
-
-Aguardando a concluão do trabalho para usar o comando tree
+EcoPoints
+│
+├── CONTRIBUTING.md                     # Guia de contribuição
+├── README.md                           # Página inicial do projeto
+│
+├── docs
+│   ├── backlog.md                      # Planejamento inicial
+│   ├── user-stories.md                 # Histórias de usuário
+│   │
+│   ├── personas
+│   │   ├── main-persona.md             # Persona principal
+│   │   └── secondary-persona.md        # Persona secundária
+│   │
+│   ├── requirements
+│   │   ├── functional.md               # Requisitos funcionais
+│   │   └── non-functional.md           # Requisitos não funcionais
+│   │
+│   └── prototypes
+│       ├── low-fidelity.md             # Protótipo de baixa fidelidade
+│       ├── mid-fidelity.md             # Protótipo de média fidelidade
+│       └── high-fidelity.md            # Protótipo de alta fidelidade
+│
+├── imgs
+│   ├── personas
+│   │   ├── main-persona.jpeg
+│   │   └── secondary-persona.jpeg
+│   │
+│   └── prototypes
+│       ├── low-fidelity
+│       │   ├── home.jpg
+│       │   └── collect-points.jpg
+│       │
+│       ├── mid-fidelity
+│       │   └── home.png
+│       │
+│       └── high-fidelity
+│           ├── home.jpg
+│           ├── collect-point.jpg
+│           └── collect-points.jpg
+│
+└── .gitignore
 
 ```
 
@@ -60,8 +98,5 @@ Aguardando a concluão do trabalho para usar o comando tree
 | Felipe Balaban Grangeiro | [@felipebalaban](https://github.com/felipebalaban) | felipe.balaban@aluno.ufca.edu.br |
 | João Gabriel da Silva Santana | [@joao-santana-stack](https://github.com/joao-santana-stack) | joao.santana@aluno.ufca.edu.br |
 | Wesley Silva Alves | [@TocaiLd](https://github.com/TocaiaLd)| wesley.alves@aluno.ufca.edu.br |
-
-## Histórico de Contribuições
-![Alt](https://repobeats.axiom.co/api/embed/4d2b5732bcc1e94e0608ebc099bfea8e5d24cb5b.svg "Repobeats analytics image")
 
 
