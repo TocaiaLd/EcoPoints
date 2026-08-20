@@ -1,15 +1,17 @@
-![Foto ilustrativa de João Silva](./assets/joao-silva.jpeg)
+# Persona Principal
 
-Nome: João Silva
+![main-persona](../../imgs/personas/main-persona.jpeg)
 
-Idade: 24 anos
+**Nome:** João Silva
 
-Ocupação/Profissão: Catador de material reciclável
+**Idade:** 24 anos
 
-Objetivos: João precisa obter renda extra, e para isso está trabalhando como catador de latinhas/material reciclável. Por isso, busca um software que mostre pontos de coleta seletiva para que ele possa fazer o descarte adequado e ser pago. Também considera importante tabelas que associem cores de lixeira a materiais ideais de descarte, para que saiba onde descartar cada tipo de material. Além disso, é importante participar de programas que recompensem a coleta seletiva, então João deseja cadastrar seus descartes no EcoPoints para ser compensado por isso.
+**Ocupação/Profissão:** Catador de material reciclável
 
-Dificuldades: Interfaces verbosas, com muitas informações; softwares complexos, com muitos passos para utilização; formulários longos de cadastro, que solicitam muitos dados; programas muito textuais, com baixa interação via interface gráfica.
+**Objetivos:** João precisa obter renda extra, e para isso está trabalhando como catador de latinhas/material reciclável. Por isso, busca um software que mostre pontos de coleta seletiva para que ele possa fazer o descarte adequado e ser pago. Também considera importante tabelas que associem cores de lixeira a materiais ideais de descarte, para que saiba onde descartar cada tipo de material. Além disso, é importante participar de programas que recompensem a coleta seletiva, então João deseja cadastrar seus descartes no EcoPoints para ser compensado por isso.
 
-Necessidades: Mapa simples com pontos de coleta seletiva; tabelas fáceis de entender com materiais de descarte e cor de lixeira adequada para tal descarte; interface minimalista; navegação intuitiva e em poucos passos; sistema de cadastro de descarte com recompensa
+**Dificuldades:** Interfaces verbosas, com muitas informações; softwares complexos, com muitos passos para utilização; formulários longos de cadastro, que solicitam muitos dados; programas muito textuais, com baixa interação via interface gráfica.
 
-Familiaridade com tecnologia: Baixa
+**Necessidades:** Mapa simples com pontos de coleta seletiva; tabelas fáceis de entender com materiais de descarte e cor de lixeira adequada para tal descarte; interface minimalista; navegação intuitiva e em poucos passos; sistema de cadastro de descarte com recompensa
+
+**Familiaridade com tecnologia:** Baixa
