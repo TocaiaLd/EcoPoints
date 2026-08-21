@@ -3,6 +3,7 @@ O projeto EcoPoints é um software voltado para o incentivo ao descarte de resí
 
 ## Sumário
 - [Contexto](#contexto)
+- [Justificativa](#justificativa)
 - [Público Alvo](#público-alvo)
 - [Escopo do Problema](#escopo-do-problema)
 - [Impacto Esperado](#impacto-esperado)
